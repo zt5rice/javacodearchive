@@ -60,4 +60,5 @@
 * [52. Search In Binary Search Tree](tree/52.-search-in-binary-search-tree.md)
 * [51. Insert In Binary Search Tree](tree/51.-insert-in-binary-search-tree.md)
 * [53. Delete In Binary Search Tree](tree/53.-delete-in-binary-search-tree.md)
+* [44. Pre-order Traversal Of Binary Tree \(iterative\)](tree/44.-pre-order-traversal-of-binary-tree-iterative.md)
 
