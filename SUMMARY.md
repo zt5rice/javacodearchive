@@ -70,4 +70,5 @@
 * [57. Get Keys In Binary Tree Layer By Layer](bfs-1/57.-get-keys-in-binary-tree-layer-by-layer.md)
 * [56. Bipartite](bfs-1/56.-bipartite.md)
 * [47. Check If Binary Tree Is Completed](bfs-1/47.-check-if-binary-tree-is-completed.md)
+* [26. Kth Smallest Number In Sorted Matrix](bfs-1/26.-kth-smallest-number-in-sorted-matrix.md)
 
