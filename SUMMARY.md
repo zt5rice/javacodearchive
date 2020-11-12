@@ -77,4 +77,5 @@
 * [62. All Subsets I](dfs/62.-all-subsets-i.md)
 * [66. All Valid Permutations Of Parentheses I](dfs/66.-all-valid-permutations-of-parentheses-i.md)
 * [73. Combinations Of Coins](dfs/73.-combinations-of-coins.md)
+* [64. All Permutations I](dfs/64.-all-permutations-i.md)
 
