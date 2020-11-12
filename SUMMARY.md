@@ -72,3 +72,7 @@
 * [47. Check If Binary Tree Is Completed](bfs-1/47.-check-if-binary-tree-is-completed.md)
 * [26. Kth Smallest Number In Sorted Matrix](bfs-1/26.-kth-smallest-number-in-sorted-matrix.md)
 
+## DFS
+
+* [62. All Subsets I](dfs/62.-all-subsets-i.md)
+
