@@ -79,3 +79,8 @@
 * [73. Combinations Of Coins](dfs/73.-combinations-of-coins.md)
 * [64. All Permutations I](dfs/64.-all-permutations-i.md)
 
+## HashTable
+
+* [67. Top K Frequent Words](hashtable/67.-top-k-frequent-words.md)
+* [68. Missing Number I](hashtable/68.-missing-number-i.md)
+
