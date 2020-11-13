@@ -84,4 +84,5 @@
 * [67. Top K Frequent Words](hashtable/67.-top-k-frequent-words.md)
 * [68. Missing Number I](hashtable/68.-missing-number-i.md)
 * [652. Common Numbers Of Two Sorted Arrays\(Array version\)](hashtable/652.-common-numbers-of-two-sorted-arrays-array-version.md)
+* [395. Remove Certain Characters](hashtable/395.-remove-certain-characters.md)
 
