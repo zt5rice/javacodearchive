@@ -85,4 +85,5 @@
 * [68. Missing Number I](hashtable/68.-missing-number-i.md)
 * [652. Common Numbers Of Two Sorted Arrays\(Array version\)](hashtable/652.-common-numbers-of-two-sorted-arrays-array-version.md)
 * [395. Remove Certain Characters](hashtable/395.-remove-certain-characters.md)
+* [281. Remove Spaces](hashtable/281.-remove-spaces.md)
 
